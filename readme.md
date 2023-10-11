@@ -13,5 +13,5 @@
 ## Build And Run
 run surround_view.ipynb
 ## Result
-
+The code inputs are 4 fisheye camera images, and the stitched image results are as follows. The project utilizes cuda to accelerate the c++ code with a frame rate of over 10k.
 <img src="./surround.jpg" width="300">
