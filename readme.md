@@ -14,4 +14,4 @@
 run surround_view.ipynb
 ## Result
 
-<div><img style="max-width: 300px" src="./surround.jpg"></div>
+<div style="width: 300px"><img  src="./surround.jpg"></div>
