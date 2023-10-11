@@ -14,5 +14,4 @@
 run surround_view.ipynb
 ## Result
 
-|----|----|
-|![no banlance](./images/result/ADAS_EYES_360_VIEW_AWB_DISABLE.png)|![banlance](./surround.jpg)|
+<div style="max-width=300px"><img src="./surround.jpg"></div>
