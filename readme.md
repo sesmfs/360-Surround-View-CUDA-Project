@@ -1,4 +1,4 @@
-# 10000fps 🚀 for 360 Surround-View CUDA Solution
+# 10000 fps 🚀 for 360 Surround-View CUDA Solution
 
 **[CSDN](https://blog.csdn.net/zyy_1278735167/article/details/133716840?spm=1001.2014.3001.5502)**
 
